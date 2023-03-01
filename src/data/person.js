@@ -1,5 +1,6 @@
- export default 
-  [
+
+
+ const person =  [
     {
       word: 'affectionate',
       type: 'adj',
@@ -407,3 +408,5 @@
       translation: 'nepořádný'
     }
   ]
+
+  export default person;
