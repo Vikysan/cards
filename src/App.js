@@ -1,5 +1,4 @@
 import person from './data/person';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import MyCard from './MyCard'
 import Stack from 'react-bootstrap/Stack';

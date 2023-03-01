@@ -20,7 +20,8 @@ export default function MyCard({inp}) {
         <Card.Body>
           <Card.Title>{myInput.translation}</Card.Title>
           <Card.Subtitle className="mb-2 text-muted">
-            {myInput.pronunciation}
+            {/* {myInput.pronunciation} */}
+           {" "}
           </Card.Subtitle>
           <Card.Text>{myInput.usage}</Card.Text>
         </Card.Body>
