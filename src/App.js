@@ -9,6 +9,7 @@ function App() {
     <div className="App">
          <Stack gap={2} className="col-md-5 mx-auto">
      {person.map((oneItem,index)=><MyCard inp={oneItem} key={index}></MyCard>)}
+     
      </Stack>
 
     </div>
